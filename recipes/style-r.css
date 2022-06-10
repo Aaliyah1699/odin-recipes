@@ -1,41 +1,77 @@
-/* Mac section */
-/*h1 -title*/
+/*Mac page*/
+/*h1 -title = Mac*/
 #mac{
     font-family: "Brush Script MT", "Courier New", sans-serif;
     font-size: 50px;
     text-align: center;
     color: #d27d2d;
 }
-/*image*/
-#bake{
+/*image [bake=Mac][pic=Potsal]*/
+#bake, #pic{
     display: block;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     width: 60%;
 } 
-/*body - background of page*/
-.milk{
+/*body - [milk=Mac][pot=Potsal]*/
+.milk, .pot{
     background-color: #eaddca;
     text-align: center;
     list-style-position: inside;
     font-size: 21px;
 }
-/*h3 description*/
+/*h3 description = Mac*/
 .des{
     color: #6e260e;
     font-family: "Dancing Script", Garamond, sans-serif;
     font-size: 50px;
 }
-/*first paragraph, unordered list, ordered list*/
+/* Mac = first paragraph, unordered list, ordered list*/
 .para, .li, .step{
     font-family: "Times New Roman", Georgia, sans-serif;
     color: #5C4033;
 }
-/*H4 titles (ingredients - steps)*/
+/* Mac = H4 titles (ingredients - steps)*/
 .init{
     color: #6e260e;
     font-family: "Dancing Script", Garamond, sans-serif;
     font-size: 40px;
 }
+/*Potato Salad Page*/
+/*Potsal =h1 title */
+#simp {
+    font-family: "Brush Script MT", "Courier New", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #8B0000;
+}
+/*Potsal = image*/
+#pic {
+    width: 70%;
+}
+/* Potsal = [cript=H3] [stir=h4]*/
+.cript, .stir {
+    color: #9a2a2a;
+    font-family: Satisfy, Garamond, sans-serif;
+}
+/*Potsal = h3*/
+.cript {
+    font-size: 50px;
+}
+/*Potsal=H4*/
+.stir {
+    font-size: 40px;
+}
+/*Potsal = p, unordered list, ordered list*/
+.mus, .may, .sweet {
+    font-family: "Times New Roman", Georgia, sans-serif;
+    color: #C04000;
+}
+/*Body font size*/
+.pot {
+    font-size: 20px;
+}
 
+/*Baked Ham page*/
+/**/
