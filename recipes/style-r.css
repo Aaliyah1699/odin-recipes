@@ -1,0 +1,41 @@
+/* Mac section */
+/*h1 -title*/
+#mac{
+    font-family: "Brush Script MT", "Courier New", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #d27d2d;
+}
+/*image*/
+#bake{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 60%;
+} 
+/*body - background of page*/
+.milk{
+    background-color: #eaddca;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 21px;
+}
+/*h3 description*/
+.des{
+    color: #6e260e;
+    font-family: "Dancing Script", Garamond, sans-serif;
+    font-size: 50px;
+}
+/*first paragraph, unordered list, ordered list*/
+.para, .li, .step{
+    font-family: "Times New Roman", Georgia, sans-serif;
+    color: #5C4033;
+}
+/*H4 titles (ingredients - steps)*/
+.init{
+    color: #6e260e;
+    font-family: "Dancing Script", Garamond, sans-serif;
+    font-size: 40px;
+}
+
