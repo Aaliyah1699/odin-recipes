@@ -24,8 +24,11 @@ body {
     width: 60%;
 }
 /* Mac section */
+#mac{
+    font-family: "Brush Script MT", "Courier New", sans-serif;
+    
+}
 #bake{} 
-#mac{}
 .milk{}
 .des{}
 .para{}
