@@ -1,0 +1,34 @@
+/* Index section */
+/* Title of page, centered (index) */
+#food {
+    font-family: "Brush Script MT", "Courier New", sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(205, 127, 50);
+}
+/* changed page background and centered links and the link numbers (index) */
+body {
+    background-color: #eaddca;
+    text-align: center;
+    list-style-position: inside;
+    font-family: caveat, cursive, monospace;
+    font-size: 30px;
+}
+/* Centered image, moved image up (index )*/
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -50px;
+    width: 60%;
+}
+/* Mac section */
+#bake{} 
+#mac{}
+.milk{}
+.des{}
+.para{}
+.init{}
+
+
